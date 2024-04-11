@@ -32,9 +32,8 @@ The Cashier POS has several features:
 - **Product Lookup**: Cashiers can quickly look up products by their barcodes or search terms.
 - **End of Day Reporting**: The system generates a report detailing the total sales, returns, and revenue for the day.
 
-![Screenshot 2024-03-25 104503](https://github.com/RyanSilva2004/KEELS-Super-POS/assets/137909008/1ff4a0ef-97ea-4e26-bb67-cf130796af99)
 ![Screenshot 2024-03-25 104425](https://github.com/RyanSilva2004/KEELS-Super-POS/assets/137909008/225ab2c2-98cd-44c8-8729-cfeb686600db)
-
+![Screenshot 2024-03-25 104503](https://github.com/RyanSilva2004/KEELS-Super-POS/assets/137909008/1ff4a0ef-97ea-4e26-bb67-cf130796af99)
 
 ### POS and Inventory Management System
 
