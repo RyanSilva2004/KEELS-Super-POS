@@ -16,6 +16,8 @@ The system supports two types of accounts:
 
 ![Screenshot 2024-03-25 104239](https://github.com/RyanSilva2004/KEELS-Super-POS/assets/137909008/2484b8d8-4403-4a1c-9432-b3ae5e6e3316)
 ![Screenshot 2024-03-25 104313](https://github.com/RyanSilva2004/KEELS-Super-POS/assets/137909008/9510646c-3a44-4a4e-80bd-f23868b22bfc)
+![image](https://github.com/RyanSilva2004/KEELS-Super-POS/assets/137909008/b9e67ec8-5928-40bd-b7ad-e3743664f6ee)
+![image](https://github.com/RyanSilva2004/KEELS-Super-POS/assets/137909008/c8cda8b4-d68d-45b9-8461-1546534051ad)
 
 2. **Cashiers**: Cashiers have access to the POS with all capabilities including bill generation.
 
